@@ -9,7 +9,7 @@
 <br>
 <a href="bit.ly/3KfqUAM">3차 프로젝트 PPT</a>
 <br>
-2차 프로젝트 PPT : bit.ly/44L9K6z
+<a href="bit.ly/44L9K6z">2차 프로젝트 PPT</a>
 <br>
 <br>
 퓨어 PHP로 만든 블랙잭 : http://ldh1103.dothome.co.kr/blackjack.php
