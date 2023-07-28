@@ -5,7 +5,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LDH1103)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://ldh1123.tistory.com/)  
 
-2차 ~ 3차 프로젝트 - 항공 예약 서비스 : https://github.com/PHP-506-airplane/PHP-506-airplane
+<a href="https://github.com/PHP-506-airplane/PHP-506-airplane">2차 ~ 3차 프로젝트 - 항공 예약 서비스</a>
 <br>
 <a href="bit.ly/3KfqUAM">3차 프로젝트 PPT</a>
 <br>
