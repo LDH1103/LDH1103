@@ -12,10 +12,10 @@
 <a href="bit.ly/44L9K6z">2차 프로젝트 PPT</a>
 <br>
 <br>
-퓨어 PHP로 만든 블랙잭 : http://ldh1103.dothome.co.kr/blackjack.php
+<a href="http://ldh1103.dothome.co.kr/blackjack.php">퓨어 PHP로 만든 블랙잭</a>
 <br>
 <br>
-강의내용 정리 블로그 - https://ldh1123.tistory.com/
+<a href=" https://ldh1123.tistory.com/">강의내용 복습 블로그</a>
 <br>
 <br>
 
