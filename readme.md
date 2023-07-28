@@ -7,7 +7,7 @@
 
 2차 ~ 3차 프로젝트 - 항공 예약 서비스 : https://github.com/PHP-506-airplane/PHP-506-airplane
 <br>
-3차 프로젝트 PPT : bit.ly/3KfqUAM
+<a href="bit.ly/3KfqUAM">3차 프로젝트 PPT</a>
 <br>
 2차 프로젝트 PPT : bit.ly/44L9K6z
 <br>
