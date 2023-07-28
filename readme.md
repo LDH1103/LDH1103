@@ -15,7 +15,7 @@
 <a href="http://ldh1103.dothome.co.kr/blackjack.php">퓨어 PHP로 만든 블랙잭</a>
 <br>
 <br>
-<a href=" https://ldh1123.tistory.com/">강의내용 복습 블로그</a>
+<a href="https://ldh1123.tistory.com/">강의내용 복습 블로그</a>
 <br>
 <br>
 
