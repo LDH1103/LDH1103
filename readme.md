@@ -5,11 +5,16 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LDH1103)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://ldh1123.tistory.com/)  
 
-3차 프로젝트 - 항공 예약 서비스 : https://github.com/PHP-506-airplane/PHP-506-airplane
+2차 ~ 3차 프로젝트 - 항공 예약 서비스 : https://github.com/PHP-506-airplane/PHP-506-airplane
+<br>
+3차 프로젝트 PPT : bit.ly/3KfqUAM
+<br>
+2차 프로젝트 PPT : bit.ly/44L9K6z
 <br>
 퓨어 PHP로 만든 블랙잭 : http://ldh1103.dothome.co.kr/blackjack.php
 <br>
 강의내용 정리 블로그 - https://ldh1123.tistory.com/
+<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDH1103&show_icons=true&theme=dracula)
