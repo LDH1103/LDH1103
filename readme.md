@@ -1,7 +1,7 @@
 #### <div align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLDH1103&count_bg=%23A2DBEE&title_bg=%23EEA8CC&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <div align=center>
-  <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">2차 ~ 3차 프로젝트 - 항공 예약 서비스</a>
+  <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">2차 ~ 3차 팀 프로젝트 - 항공 예약 서비스</a>
   <br>
   <a href="bit.ly/3KfqUAM">3차 프로젝트 PPT</a>
   <br>
