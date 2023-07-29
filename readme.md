@@ -10,6 +10,7 @@
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 </div>
+<hr>
 <div align=center>
   <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">2차 ~ 3차 팀 프로젝트 - 항공 예약 서비스</a>
   <br>
