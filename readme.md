@@ -14,7 +14,5 @@
   <a href="https://ldh1123.tistory.com/">강의내용 복습 블로그</a>
   <br>
   <br>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDH1103&show_icons=true&theme=dracula)
 </div>
 
