@@ -4,6 +4,7 @@
   <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
   <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white"/>
   <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
 <div align=center>
   <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">2차 ~ 3차 팀 프로젝트 - 항공 예약 서비스</a>
