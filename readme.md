@@ -12,7 +12,7 @@
 </div>
 <hr>
 <div align=center>
-  <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">2차 ~ 3차 팀 프로젝트 - 항공 예약 서비스</a>
+  2차 ~ 3차 팀 프로젝트 - <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">항공 예약 서비스</a>
   <br>
   - <a href="https://www.canva.com/design/DAFpsj82YXU/Hc7XI8i9ZYnJeciYjWgoEw/edit?utm_content=DAFpsj82YXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">3차 프로젝트 PPT</a>
   <br>
