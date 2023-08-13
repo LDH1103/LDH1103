@@ -40,7 +40,7 @@
 - <a href="https://www.canva.com/design/DAFg_1lhOls/cDhrzhvk5pbVv7GU1tp3ZQ/edit?utm_content=DAFg_1lhOls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 PPT</a>
 
 <h1>Personal Project</h1>
-- <a href="http://ldh1103.dothome.co.kr/blackjack.php">퓨어 PHP 블랙잭</a>
+- <a href="http://ldh1103.dothome.co.kr/blackjack.php">퓨어 PHP 블랙잭</a> : <a href="https://github.com/LDH1103/self_study/blob/main/PHP/blackjack_web.php">Git</a>
 <br>
 - <a href="https://github.com/LDH1103/laravel_board">Laravel 게시판</a>
 <br>
