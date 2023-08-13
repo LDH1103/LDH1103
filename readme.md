@@ -3,12 +3,12 @@
 
 <h1>Tech Stack</h1>
 <div>
-  <h3>Backend</h3>
+  <h3>Back-end</h3>
   <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white"/>
   <img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20?&style=for-the-badge&logo=Laravel&logoColor=white"/>
   <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
   <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <h3>Frontend</h3>
+  <h3>Front-end</h3>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img alt="Vue.Js" src ="https://img.shields.io/badge/Vue.Js-4FC08D?&style=for-the-badge&logo=Vue.Js&logoColor=white"/>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/>
