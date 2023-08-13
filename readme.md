@@ -14,8 +14,9 @@
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-  <h3>Dev Tool</h3>
+  <h3>Dev Tools</h3>
   <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img alt="phpstorm" src ="https://img.shields.io/badge/phpstorm-000000?&style=for-the-badge&logo=phpstorm&logoColor=white"/>
   <h3>Configuration Management</h3>
   <img alt="git" src ="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="github" src ="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/>
