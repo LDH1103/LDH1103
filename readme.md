@@ -27,20 +27,31 @@
   <img alt="NOTION" src ="https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=NOTION&logoColor=white"/>
   <img alt="SLACK" src ="https://img.shields.io/badge/Slack-4A154B?&style=for-the-badge&logo=SLACK&logoColor=white"/>
   <img alt="JIRA" src ="https://img.shields.io/badge/Jira-0052CC?&style=for-the-badge&logo=JIRA&logoColor=white"/>
-  <br>
-  
 </div>
 
 <h1>Team Project</h1>
-2차 ~ 3차 팀 프로젝트 
-<br>
-<br>
-- <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">항공 예약 서비스</a>
+- 2차 ~ 3차 팀 프로젝트 : <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">항공 예약 서비스</a>
 
 - <a href="https://www.canva.com/design/DAFpsj82YXU/Hc7XI8i9ZYnJeciYjWgoEw/edit?utm_content=DAFpsj82YXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">3차 프로젝트 PPT</a>
 - <a href="https://www.canva.com/design/DAFnEX5iQKM/-WBYP7QO0kpcYiApSAmmCw/edit?utm_content=DAFnEX5iQKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">2차 프로젝트 PPT</a>
+<br>
+- 1차 팀 프로젝트 : <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">반려동물을 위한 To Do List</a>
+
+- <a href="https://www.canva.com/design/DAFg_1lhOls/cDhrzhvk5pbVv7GU1tp3ZQ/edit?utm_content=DAFg_1lhOls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 PPT</a>
+
 <h1>Personal Project</h1>
-- <a href="http://ldh1103.dothome.co.kr/blackjack.php">퓨어 PHP로 만든 블랙잭</a>
+- <a href="http://ldh1103.dothome.co.kr/blackjack.php">퓨어 PHP 블랙잭</a>
+<br>
+- <a href="https://github.com/LDH1103/laravel_board">Laravel 게시판</a>
+<br>
+- <a href="https://github.com/LDH1103/mini_2">PHP MVC 쇼핑몰</a>
+<br>
+- <a href="https://github.com/LDH1103/PHPFULLSTACK/tree/main/vue/vuestargram">Vue.js 인스타그램</a>
+<br>
+- <a href="https://github.com/LDH1103/PHPFULLSTACK/tree/main/vue/todolist">Laravel + Vue.js To Do List</a>
+<br>
+- <a href="https://github.com/LDH1103/mini_board">PHP 게시판</a>
+
 <h1>Blog</h1>
 - <a href="https://ldh1123.tistory.com/">강의내용 복습 블로그</a>
 
