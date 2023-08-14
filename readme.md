@@ -1,4 +1,4 @@
-#### <div align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLDH1103&count_bg=%23A2DBEE&title_bg=%23EEA8CC&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+#### <div align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLDH1103&count_bg=%23A2DBEE&title_bg=%23EEA8CC&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <h1>Tech Stack</h1>
