@@ -17,7 +17,7 @@
   <h3>Dev Tools</h3>
   <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC?&logo=visualstudiocode&logoColor=white"/>
   <img alt="phpstorm" src ="https://img.shields.io/badge/phpstorm-000000?&logo=phpstorm&logoColor=white"/>
-  <h3>Configuration Management</h3>
+  <h3>Version Control Tool</h3>
   <img alt="git" src ="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white"/>
   <img alt="github" src ="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"/>
   <h3>Etc</h3>
