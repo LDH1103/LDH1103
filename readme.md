@@ -20,7 +20,7 @@
   <h3>Version Control Tool</h3>
   <img alt="git" src ="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white"/>
   <img alt="github" src ="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"/>
-  <h3>Etc</h3>
+  <h3>etc</h3>
   <img alt="linux" src ="https://img.shields.io/badge/linux-FCC624?&logo=linux&logoColor=black"/>
   <img alt="ubuntu" src ="https://img.shields.io/badge/ubuntu-E95420?&logo=ubuntu&logoColor=white"/>
   <img alt="filezilla" src ="https://img.shields.io/badge/filezilla-BF0000?&logo=filezilla&logoColor=white"/>
