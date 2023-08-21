@@ -48,17 +48,17 @@
 <h1>Personal Project</h1>
 - <a href="http://ldh1103.dothome.co.kr/blackjack.php">퓨어 PHP 블랙잭</a> : <a href="https://github.com/LDH1103/self_study/blob/main/PHP/blackjack_web.php">Git</a>
 <br>
-- <a href="https://github.com/LDH1103/laravel_board">Laravel 게시판</a>
+- Laravel 게시판 : <a href="https://github.com/LDH1103/laravel_board">Git</a>
 <br>
-- <a href="https://github.com/LDH1103/mini_2">PHP MVC 쇼핑몰</a>
+- PHP MVC 쇼핑몰 : <a href="https://github.com/LDH1103/mini_2">Git</a>
 <br>
-- <a href="https://github.com/LDH1103/PHPFULLSTACK/tree/main/vue/vuestargram">Vue.js 인스타그램</a>
+- Vue.js 인스타그램 : <a href="https://github.com/LDH1103/PHPFULLSTACK/tree/main/vue/vuestargram">Git</a>
 <br>
-- <a href="https://github.com/LDH1103/PHPFULLSTACK/tree/main/vue/todolist">Laravel + Vue.js To Do List</a>
+- Laravel + Vue.js To Do List : <a href="https://github.com/LDH1103/PHPFULLSTACK/tree/main/vue/todolist">Git</a>
 <br>
-- <a href="https://github.com/LDH1103/mini_board">PHP 게시판</a>
+- PHP 게시판 : <a href="https://github.com/LDH1103/mini_board">Git</a>
 
 <h1>Blog</h1>
-- <a href="https://ldh1123.tistory.com/">강의내용 복습 블로그</a>
+- 강의내용 복습 블로그 : <a href="https://ldh1123.tistory.com/">Link</a>
 
 
