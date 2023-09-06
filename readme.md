@@ -43,7 +43,7 @@
 - <a href="https://www.canva.com/design/DAFnEX5iQKM/-WBYP7QO0kpcYiApSAmmCw/edit?utm_content=DAFnEX5iQKM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">2차 프로젝트 PPT</a>
 <br>담당 : DB seed, factory, 미들웨어, 헬퍼함수, 메인 페이지 - 특가항공권, 공지사항 페이지, 예약 조회 페이지, 예약 완료시 메일 발송
 <br>
-- 1차 팀 프로젝트 : <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">반려동물을 위한 To Do List</a>
+- 1차 팀 프로젝트 : <a href="https://github.com/PHP-506-airplane/PHP-506-airplane">반려동물을 위한 To Do List</a> 
 
 - <a href="https://www.canva.com/design/DAFg_1lhOls/cDhrzhvk5pbVv7GU1tp3ZQ/edit?utm_content=DAFg_1lhOls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">1차 프로젝트 PPT</a>
 <br>담당 : 작성 페이지, 삭제 페이지, 프로필 이미지 기능
