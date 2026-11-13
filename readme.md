@@ -95,6 +95,10 @@
 <p>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
   <img alt="Claude API" src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square"/>
+  <img alt="Kiro" src="https://img.shields.io/badge/Kiro-790ECB?style=flat-square"/>
+  <img alt="Gemini CLI" src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square"/>
 </p>
 
 <details>
