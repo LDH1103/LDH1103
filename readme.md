@@ -23,10 +23,11 @@
 | [stablyai/orca#24049](https://github.com/stablyai/orca/pull/24049) | 모바일 저장소 쓰기가 중단되면 남던 임시 파일 정리 | 머지 |
 
 **리뷰 중인 PR**
+- [stablyai/orca#42075](https://github.com/stablyai/orca/pull/42075): Orca에서 쓴 Jira Cloud 댓글의 줄바꿈과 Markdown을 Jira에서도 그대로 보이게 수정
 - [stablyai/orca#41882](https://github.com/stablyai/orca/pull/41882): 터미널을 연 호스트 창이 없어도 연결된 데스크톱에 터미널 이름 변경이 보이게 수정
 - [stablyai/orca#39769](https://github.com/stablyai/orca/pull/39769): Kiro를 ACP로 Chat에서 열기
 - [stablyai/orca#37712](https://github.com/stablyai/orca/pull/37712): 상태 표시줄에 Kiro 크레딧 사용량 표시
-- [stablyai/orca#29525](https://github.com/stablyai/orca/pull/29525): Jira 편집 화면에서 이슈 필드를 고치고 CLI로 읽기, 댓글 줄바꿈 유지
+- [stablyai/orca#29525](https://github.com/stablyai/orca/pull/29525): Jira 편집 화면에서 이슈 필드를 고치고 CLI로 읽기
 - [stablyai/orca#29009](https://github.com/stablyai/orca/pull/29009): 쉬고 있는 Kiro 창에 임시 제목을 붙여 계속 메시지를 보낼 수 있게 유지
 - [stablyai/orca#24938](https://github.com/stablyai/orca/pull/24938): AI Vault에서 Kiro V3 엔진 세션을 기본 세션과 함께 표시
 
