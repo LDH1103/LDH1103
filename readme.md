@@ -18,12 +18,12 @@
 
 | PR | 내용 | 상태 |
 | --- | --- | --- |
+| [stablyai/orca#42242](https://github.com/stablyai/orca/pull/42242) | Orca에서 쓴 Jira Cloud 댓글과 설명의 줄바꿈, Markdown 유지 (제 PR [#42075](https://github.com/stablyai/orca/pull/42075)를 대신해 공동 작성자로 반영) | 머지 |
 | [stablyai/orca#40568](https://github.com/stablyai/orca/pull/40568) | kiro-cli가 OSC 7501로 상태를 보내도 Kiro 세션이 끊기지 않게 수정 | 머지, v1.4.258 배포 |
 | [stablyai/orca#33660](https://github.com/stablyai/orca/pull/33660) | Kiro V3 엔진의 상태 보고 지원 (제 PR [#24937](https://github.com/stablyai/orca/pull/24937)의 커밋이 공동 작성자로 반영) | 머지 |
 | [stablyai/orca#24049](https://github.com/stablyai/orca/pull/24049) | 모바일 저장소 쓰기가 중단되면 남던 임시 파일 정리 | 머지 |
 
 **리뷰 중인 PR**
-- [stablyai/orca#42075](https://github.com/stablyai/orca/pull/42075): Orca에서 쓴 Jira Cloud 댓글의 줄바꿈과 Markdown을 Jira에서도 그대로 보이게 수정
 - [stablyai/orca#41882](https://github.com/stablyai/orca/pull/41882): 터미널을 연 호스트 창이 없어도 연결된 데스크톱에 터미널 이름 변경이 보이게 수정
 - [stablyai/orca#39769](https://github.com/stablyai/orca/pull/39769): Kiro를 ACP로 Chat에서 열기
 - [stablyai/orca#37712](https://github.com/stablyai/orca/pull/37712): 상태 표시줄에 Kiro 크레딧 사용량 표시
