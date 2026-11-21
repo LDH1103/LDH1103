@@ -18,14 +18,17 @@
 
 | PR | 내용 | 상태 |
 | --- | --- | --- |
+| [stablyai/orca#46030](https://github.com/stablyai/orca/pull/46030) | Orca Chat에서 Kiro 사용자 훅 실행 | 머지 |
+| [stablyai/orca#45533](https://github.com/stablyai/orca/pull/45533) | Orca 봇의 실행 에이전트로 Kiro를 선택하고 봇 지침 전달 | 머지 |
+| [stablyai/orca#39769](https://github.com/stablyai/orca/pull/39769) | Orca Chat에서 ACP로 Kiro 세션 열기 | 머지 |
 | [stablyai/orca#42242](https://github.com/stablyai/orca/pull/42242) | Orca에서 쓴 Jira Cloud 댓글과 설명의 줄바꿈, Markdown 유지 (제 PR [#42075](https://github.com/stablyai/orca/pull/42075)를 대신해 공동 작성자로 반영) | 머지 |
 | [stablyai/orca#40568](https://github.com/stablyai/orca/pull/40568) | kiro-cli가 OSC 7501로 상태를 보내도 Kiro 세션이 끊기지 않게 수정 | 머지, v1.4.258 배포 |
 | [stablyai/orca#33660](https://github.com/stablyai/orca/pull/33660) | Kiro V3 엔진의 상태 보고 지원 (제 PR [#24937](https://github.com/stablyai/orca/pull/24937)의 커밋이 공동 작성자로 반영) | 머지 |
 | [stablyai/orca#24049](https://github.com/stablyai/orca/pull/24049) | 모바일 저장소 쓰기가 중단되면 남던 임시 파일 정리 | 머지 |
 
 **리뷰 중인 PR**
+- [stablyai/orca#45514](https://github.com/stablyai/orca/pull/45514): 같은 Orca 계정에 연결된 다른 PC의 봇을 기존 Slack 워크스페이스에 추가할 때 토큰 재입력 생략
 - [stablyai/orca#41882](https://github.com/stablyai/orca/pull/41882): 터미널을 연 호스트 창이 없어도 연결된 데스크톱에 터미널 이름 변경이 보이게 수정
-- [stablyai/orca#39769](https://github.com/stablyai/orca/pull/39769): Kiro를 ACP로 Chat에서 열기
 - [stablyai/orca#37712](https://github.com/stablyai/orca/pull/37712): 상태 표시줄에 Kiro 크레딧 사용량 표시
 - [stablyai/orca#29525](https://github.com/stablyai/orca/pull/29525): Jira 편집 화면에서 이슈 필드를 고치고 CLI로 읽기
 - [stablyai/orca#29009](https://github.com/stablyai/orca/pull/29009): 쉬고 있는 Kiro 창에 임시 제목을 붙여 계속 메시지를 보낼 수 있게 유지
@@ -46,7 +49,7 @@
 - discord-converter-bridge: Discord 봇
 
 **도구**
-- [claude-mods](https://github.com/LDH1103/claude-mods): Claude Code 상태 표시 mod
+- [claude-mods](https://github.com/LDH1103/claude-mods): Claude Code에 에이전트 작업 진행률, Git과 PR 상태, 사용량 한도를 표시하는 mod 모음
 - stream_deck: Stream Deck 플러그인 모음
 
 ## 기술
